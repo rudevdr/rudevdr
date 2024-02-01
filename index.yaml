@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kafka-rest:
+  - apiVersion: v2
+    created: "2024-02-01T07:37:54.570346927Z"
+    description: A generated Helm Chart for kafka-rest from Skippbox Kompose
+    digest: bcb8cd5a09723bffecc022fc1dacf7f2c06c3f38cb201004af3037f0748c2b96
+    keywords:
+    - kafka-rest
+    name: kafka-rest
+    urls:
+    - kafka-rest-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-02-01T07:37:54.570366826Z"
