@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  docker-compose:
+  kafka-cp:
   - apiVersion: v2
-    created: "2024-02-19T07:24:55.198477125Z"
-    description: A generated Helm Chart for docker-compose from Skippbox Kompose
-    digest: 390b339c13ac8ab8c52750b43df85242327d5eb6afa8b3a72cab32ea9832a134
+    created: "2024-02-19T07:55:03.204549799Z"
+    description: A generated Helm Chart for kafka-cp from Skippbox Kompose
+    digest: 3c6be061869e81d0e906a8353e1740a282da8246790450de399d892dcef0b9ef
     keywords:
-    - docker-compose
-    name: docker-compose
+    - kafka-cp
+    name: kafka-cp
     urls:
-    - docker-compose-0.0.1.tgz
+    - kafka-cp-0.0.1.tgz
     version: 0.0.1
-generated: "2024-02-19T07:24:55.198499125Z"
+generated: "2024-02-19T07:55:03.204554284Z"
