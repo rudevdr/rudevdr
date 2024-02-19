@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  kafka-rest:
+  docker-compose:
   - apiVersion: v2
-    created: "2024-02-01T07:37:54.570346927Z"
-    description: A generated Helm Chart for kafka-rest from Skippbox Kompose
-    digest: bcb8cd5a09723bffecc022fc1dacf7f2c06c3f38cb201004af3037f0748c2b96
+    created: "2024-02-19T07:24:55.198477125Z"
+    description: A generated Helm Chart for docker-compose from Skippbox Kompose
+    digest: 390b339c13ac8ab8c52750b43df85242327d5eb6afa8b3a72cab32ea9832a134
     keywords:
-    - kafka-rest
-    name: kafka-rest
+    - docker-compose
+    name: docker-compose
     urls:
-    - kafka-rest-0.0.1.tgz
+    - docker-compose-0.0.1.tgz
     version: 0.0.1
-generated: "2024-02-01T07:37:54.570366826Z"
+generated: "2024-02-19T07:24:55.198499125Z"
